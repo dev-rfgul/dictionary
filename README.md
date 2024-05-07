@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/dev-rfgul/dictionary/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-<p id="description">Welcome to the Online Dictionary a web application that provides users with quick and convenient access to definitions synonyms antonyms and examples of words. This dictionary tool is built with HTML CSS JavaScript and utilizes dictionary APIs to fetch comprehensive word data. With a user-friendly interface and powerful search capabilities users can enhance their vocabulary and language skills effortlessly.</p>
+<p id="description">Welcome to the Online Dictionary a web application that provides users with quick and convenient access to definitions synonyms antonyms and examples of words along with the prononciations. This dictionary tool is built with HTML CSS JavaScript and utilizes dictionary APIs to fetch comprehensive word data. With a user-friendly interface and powerful search capabilities users can enhance their vocabulary and language skills effortlessly.</p>
 
   
   
